@@ -16,11 +16,11 @@ void setup() {
   println("         BBBB    R    R  A   A      Y      DDDD     EEEEE   N     N");
   println(" ");
   println(" ");
-  println("");
-  println("");
-  println("");
-  println("");
-  println("");
+  println("               _=====_                               _=====_");
+  println("              / _____ \\                             / _____ \\");
+  println("            +.-'_____'-.---------------------------.-'_____'-.+");
+  println("           /   |     |  '.        S O N Y        .'  |  _  |   \\");
+  println("          / ___| /|\\ |___ \\                     / ___| /_\\ |___ \\");
   println("         / |      |      | ;  __           _   ; | _         _ | ;");
   println("         | | <---   ---> | | |__|         |_:> | ||_|       (_)| |");
   println("         | |___   |   ___| ;SELECT       START ; |___       ___| ;");
