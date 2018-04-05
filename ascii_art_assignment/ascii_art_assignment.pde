@@ -27,9 +27,9 @@ void setup() {
   println("         |\\    | \\|/ |    /  _     ___      _   \\    | (X) |    /|");
   println("         | \\   |_____|  .','\" \"', |___|  ,'\" \"', '.  |_____|  .' |");
   println("         |  '-.______.-' /       \\ANALOG/       \\  '-._____.-'   |");
-  println("");
-  println("");
-  println("");
+  println("         |               |       |------|       |                |");
+  println("         |              /\\       /      \\       /\\               |");
+  println("         |             /  '.___.'        '.___.'  \\              |");
   println("");
   println("");
   println("");
