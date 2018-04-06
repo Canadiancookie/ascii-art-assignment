@@ -30,9 +30,9 @@ void setup() {
   println("         |               |       |------|       |                |");
   println("         |              /\\       /      \\       /\\               |");
   println("         |             /  '.___.'        '.___.'  \\              |");
-  println("");
-  println("");
-  println("");
+  println("         |            /                            \\             |");
+  println("          \\          /                              \\           /");
+  println("           \\________/                                \\_________/");
 }
 void draw() {
 
